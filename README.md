@@ -6,6 +6,7 @@ This project aims to detect three diseases: Diabetes, Parkinson's Disease, and H
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Disadvantages](#disadvantages)
 
 ## Overview
 
