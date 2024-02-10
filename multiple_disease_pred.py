@@ -5,8 +5,7 @@ diabetes_model = pickle.load(open('D:/Project/Multiple_Disease_Prediction_System
 heart_disease_model = pickle.load(open('D:/Project/Multiple_Disease_Prediction_System/saved models/heart_disease_model.sav','rb'))
 parkinsons_model = pickle.load(open('D:/Project/Multiple_Disease_Prediction_System/saved models/parkinsons_model.sav', 'rb'))
 with st.sidebar:
-    selected = option_menu('Tri-Disease Detection System',
-                          
+    selected = option_menu('Tri-Disease Detection System',                          
                           ['Diabetes Detection',
                            'Heart Disease Detection',
                            'Parkinsons Detection'],
